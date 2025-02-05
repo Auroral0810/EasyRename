@@ -17,10 +17,10 @@ name = "easyrename_lib"
 crate-type = ["staticlib", "cdylib", "rlib"]
 
 [build-dependencies]
-tauri-build = { version = "1.5.1", features = [] }
+tauri-build = { version = "1.5", features = [] }
 
 [dependencies]
-tauri = { version = "1.5.4", features = [ "dialog-all", "protocol-all", "window-all", "shell-open", "shell-execute", "fs-all", "path-all"] }
+tauri = { version = "1.5", features = ["shell-open"] }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 tauri-plugin-opener = "1.0.0"
