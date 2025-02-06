@@ -11,7 +11,7 @@
 ![Logo](https://img.shields.io/badge/EasyRename-v1.0.0-blue)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](./LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows%20|%20macOS%20|%20Linux-brightgreen)
-[![Performance](https://img.shields.io/badge/性能-5000+文件/10秒-orange)]()
+[![Performance](https://img.shields.io/badge/性能-5000文件/15秒-orange)]()
 [![Email](https://img.shields.io/badge/email-15968588744@163.com-red)](mailto:15968588744@163.com)
 
 <p align="center">
@@ -24,17 +24,27 @@
 
 <div align="center">
   <h3>
-    <a href="#features">Features</a>
+    <a href="#特性">特性</a>
     <span> | </span>
-    <a href="#download">Download</a>
+    <a href="#下载安装">下载</a>
     <span> | </span>
-    <a href="http://easyrename.yyf040810.cn/" target="_blank">Try Online</a>
+    <a href="http://easyrename.yyf040810.cn/" target="_blank">在线使用</a>
     <span> | </span>
-    <a href="#guide">Guide</a>
+    <a href="#使用指南">使用指南</a>
     <span> | </span>
-    <a href="#tech-stack">Tech Stack</a>
+    <a href="#技术栈">技术栈</a>
   </h3>
 </div>
+
+## 🚀 快速开始
+
+### 在线使用
+> 无需下载安装，立即体验：[EasyRename 网页版](http://easyrename.yyf040810.cn/)
+
+- ✨ 完整功能支持
+- 🌐 跨平台兼容
+- 💫 无需安装部署
+- ⚡ 即开即用
 
 ## ✨ 技术栈
 
@@ -130,16 +140,6 @@
 - 建议单次处理文件不超过5000条
 - 重要文件操作前请先备份
 - 避免频繁撤销/重做操作
-
-## 🚀 快速开始
-
-### 在线试用
-> 无需下载安装，立即体验：[EasyRename 网页版](http://easyrename.yyf040810.cn/)
-
-- ✨ 完整功能支持
-- 🌐 跨平台兼容
-- 💫 无需安装部署
-- ⚡ 即开即用
 
 ## 📥 下载安装
 

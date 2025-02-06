@@ -11,7 +11,7 @@
 ![Logo](https://img.shields.io/badge/EasyRename-v1.0.0-blue)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](./LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows%20|%20macOS%20|%20Linux-brightgreen)
-[![Performance](https://img.shields.io/badge/Performance-5000+files/10s-orange)]()
+[![Performance](https://img.shields.io/badge/Performance-5000files/15s-orange)]()
 [![Email](https://img.shields.io/badge/email-15968588744@163.com-red)](mailto:15968588744@163.com)
 
 <p align="center">
@@ -28,11 +28,23 @@
     <span> | </span>
     <a href="#download">Download</a>
     <span> | </span>
+    <a href="http://easyrename.yyf040810.cn/" target="_blank">Try Online</a>
+    <span> | </span>
     <a href="#guide">Guide</a>
     <span> | </span>
     <a href="#tech-stack">Tech Stack</a>
   </h3>
 </div>
+
+## 🚀 Quick Start
+
+### Try Online
+> Try instantly without installation: [EasyRename Online](http://easyrename.yyf040810.cn/)
+
+- ✨ Full Feature Support
+- 🌐 Cross-platform Compatible
+- 💫 No Installation Required
+- ⚡ Instant Access
 
 ## ✨ Tech Stack
 
