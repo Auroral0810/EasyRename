@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md">English</a> | <a href="README_zh.md">简体中文</a>
+</div>
+
 # EasyRename 批量重命名工具
 
 <div align="center">
